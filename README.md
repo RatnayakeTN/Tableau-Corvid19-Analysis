@@ -2,6 +2,7 @@
 Use Tableau to create exploratory and actionable dashboards 
 
 DESIGN REFLECTION
+
 The action dashboard was mainly created to prioritize clarity using key metrics in the
 form of KPI cards and threshold indicators.
 Whereas the exploratory dashboard was used to help understand trends more
